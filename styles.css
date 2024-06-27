@@ -43,6 +43,7 @@ font-size: 2rem;
 }
 
 .profile-picture img {
+    background-image: url(image/tracy_p.png);
     width: 150px;
     height: 150px;
     border-radius: 50%;
